@@ -61,7 +61,7 @@ export default function Home() {
           {/* TEXTE */}
           <div className="mt-6 inline-block px-7 py-3 rounded-full border border-violet-400 bg-violet-500/10 text-violet-200 text-[18px] font-medium shadow-[0_0_20px_rgba(168,85,247,0.4)] backdrop-blur-xl tracking-wide">
 
-            Candidature au poste de caissier du Casino du Lac Meyrin
+            Candidature au poste de caissier
 
           </div>
 
@@ -303,7 +303,7 @@ export default function Home() {
 
                   <p>
                     Disponible immédiatement pour intégrer votre entreprise
-                    en tant que caissier au Casino du Lac Meyrin.
+                    en tant que caissier.
                   </p>
 
                   <p>
